@@ -1,15 +1,44 @@
+# Android Studio / IntelliJ
 *.iml
-.gradle
-/local.properties
 /.idea/caches
 /.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
-.DS_Store
+
+# Build folders and files
+.gradle
 /build
 /captures
 .externalNativeBuild
 .cxx
+
+# Local configuration file (SDK path, etc)
 local.properties
+/local.properties
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Logs
+*.log
+
+# Keystore files
+*.jks
+
+# Mac system files
+.DS_Store
