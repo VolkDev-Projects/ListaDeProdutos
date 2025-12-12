@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
             R.drawable.placadevideo,
             "GeForce RTX 3090 24GB",
             "Os blocos de construção para a GPU mais rápida e eficiente do mundo, o novo Ampere SM traz 2X a taxa de transferência do FP32 e maior eficiência de energia.",
-            "R$ 18.499,00"
+            "R$ 25.900,00"
         )
         listaProdutos.add(produto4)
 
