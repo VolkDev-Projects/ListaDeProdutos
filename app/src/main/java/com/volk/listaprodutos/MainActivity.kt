@@ -45,7 +45,7 @@ class MainActivity : AppCompatActivity() {
                 R.drawable.memoria,
                 "Memória Ram Corsair  8GB DDR4 ",
                 "Memória Corsair Vengeance LPX, 8GB, 2666MHz, DDR4, C16, Preto.",
-                "R$ 369,00"
+                "R$ 567,00"
         )
         listaProdutos.add(produto3)
 
@@ -61,7 +61,7 @@ class MainActivity : AppCompatActivity() {
             R.drawable.teclado,
             "Teclado Mecânico Gamer T-Dagger Corvette",
             "Teclado Mecânico Gamer T-Dagger Corvette, LED Rainbow, Switch Outemu DIY Blue, ABNT2 - T-TGK302 -BL (PT-BLUE).",
-            "R$ 229,00"
+            "R$ 1.050,00"
         )
         listaProdutos.add(produto5)
 
@@ -69,7 +69,7 @@ class MainActivity : AppCompatActivity() {
             R.drawable.gabinete,
             "Gabinete Gamer",
             "A série Carbide SPEC-DELTA RGB é uma caixa ATX de torre média de vidro temperado com estilo angular impressionante, fluxo de ar potente e três ventiladores de refrigeração RGB incluídos.",
-            "R$ 799,00"
+            "R$ 989,00"
         )
         listaProdutos.add(produto6)
 
