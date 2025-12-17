@@ -69,7 +69,7 @@ class MainActivity : AppCompatActivity() {
             R.drawable.gabinete,
             "Gabinete Gamer",
             "A série Carbide SPEC-DELTA RGB é uma caixa ATX de torre média de vidro temperado com estilo angular impressionante, fluxo de ar potente e três ventiladores de refrigeração RGB incluídos.",
-            "R$ 989,00"
+            "R$ 1.050,00"
         )
         listaProdutos.add(produto6)
      
