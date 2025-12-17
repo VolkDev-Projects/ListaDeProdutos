@@ -58,7 +58,7 @@ class MainActivity : AppCompatActivity() {
         listaProdutos.add(produto4)
 
         val produto5 = produto(
-            R.drawable.teclado,
+            R.drawable.teclado, 
             "Teclado Mecânico Gamer T-Dagger Corvette",
             "Teclado Mecânico Gamer T-Dagger Corvette, LED Rainbow, Switch Outemu DIY Blue, ABNT2 - T-TGK302 -BL (PT-BLUE).",
             "R$ 1.050,00"
