@@ -72,6 +72,13 @@ class MainActivity : AppCompatActivity() {
             "R$ 989,00"
         )
         listaProdutos.add(produto6)
+     
+        val produto7 = produto(
+            R.drawable.monitor,
+            "monitor Gamer",
+            "continuação da descrição....",
+         )
+         listaProdutos.add(produto7) 
 
     }
 
