@@ -32,7 +32,7 @@ class AdapterProduto (private val context : Context, private val produtos: Mutab
        holder.preco.text = produtos[position].preco
     }
 
-        override fun getItemCount(): Int = produtos.size
+        override fun getItemCount(): Int = produto.size
 
     }
 
