@@ -87,8 +87,14 @@ class MainActivity : AppCompatActivity() {
          )
          listaProdutos.add(produto8)
 
-
-
+ 
+         val produto9 = produto(
+             R.drawable.cadeira, 
+             "cadeira Gamer"
+             "Continuação da descrição. . ." 
+  
+         )
+          listaProdutos.add(produto9)
     }
 
 }
