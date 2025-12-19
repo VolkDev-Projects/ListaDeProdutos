@@ -61,7 +61,7 @@ class MainActivity : AppCompatActivity() {
             R.drawable.teclado, 
             "Teclado Mecânico Gamer T-Dagger Corvette",
             "Teclado Mecânico Gamer T-Dagger Corvette, LED Rainbow, Switch Outemu DIY Blue, ABNT2 - T-TGK302 -BL (PT-BLUE).",
-            "R$ 1.050,00"
+            "R$ 1.050,00" 
         )
         listaProdutos.add(produto5)
 
@@ -69,16 +69,25 @@ class MainActivity : AppCompatActivity() {
             R.drawable.gabinete,
             "Gabinete Gamer",
             "A série Carbide SPEC-DELTA RGB é uma caixa ATX de torre média de vidro temperado com estilo angular impressionante, fluxo de ar potente e três ventiladores de refrigeração RGB incluídos.",
-            "R$ 1.050,00"
+            "R$ 1.900,00"
         )
         listaProdutos.add(produto6)
      
         val produto7 = produto(
             R.drawable.monitor,
             "monitor Gamer",
-            "continuação da descrição....",
+            "Monitor Gamer Portátil Full Hd 144hz  Gamer 1080p 16,1 '' Preto 127/220v"
          )
          listaProdutos.add(produto7) 
+
+        val produto8 = produto(
+            R.drawable.mesa,
+            "Mesa Gamer. . ." 
+            "Continuação da descrição. . ." 
+         )
+         listaProdutos.add(produto8)
+
+
 
     }
 
