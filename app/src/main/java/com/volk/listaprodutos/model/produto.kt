@@ -6,4 +6,8 @@ data class produto(
     val nome: String,
     val descricao:String,
     val preco: String,
+
+
+    val data: String, 
+
 )
