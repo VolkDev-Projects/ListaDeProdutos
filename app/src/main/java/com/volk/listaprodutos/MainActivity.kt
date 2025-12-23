@@ -95,6 +95,14 @@ class MainActivity : AppCompatActivity() {
   
          )
           listaProdutos.add(produto9)
+
+          val produto10 = produto(
+              R.drawable.teste, 
+              "descrição" 
+              "continuação d descricao. . ."
+
+         )
+          listaProdutos.add(produto10)
     }
 
 }
