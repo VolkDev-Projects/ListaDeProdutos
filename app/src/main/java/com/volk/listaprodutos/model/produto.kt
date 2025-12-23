@@ -8,6 +8,6 @@ data class produto(
     val preco: String,
 
 
-    val data: String, 
+
 
 )
