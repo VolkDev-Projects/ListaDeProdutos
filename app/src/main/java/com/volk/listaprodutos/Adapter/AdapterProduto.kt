@@ -28,7 +28,7 @@ class AdapterProduto (private val context : Context, private val produtos: Mutab
     override fun onBindViewHolder(holder: ProdutoViewHolder, position: Int){
        holder.foto.setImageResource(produtos[position].foto)
        holder.nome.text = produtos[position].nome
-       holder.descricao.text = produtos[position].descricao
+       holder.descricao.text = produtos[position].descricao 
        holder.preco.text = produtos[position].preco
     }
 
