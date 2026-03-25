@@ -49,71 +49,71 @@ class MainActivity : AppCompatActivity() {
         )
         listaProdutos.add(produto3)
 
-        val produto4 = produto(
-            R.drawable.placadevideo,
+            val produto4 = produto(
+                R.drawable.placadevideo,
             "GeForce RTX 3090 24GB",
             "Os blocos de construção para a GPU mais rápida e eficiente do mundo, o novo Ampere SM traz 2X a taxa de transferência do FP32 e maior eficiência de energia.",
             "R$ 25.900,00"
         )
         listaProdutos.add(produto4)
 
-        val produto5 = produto(
-            R.drawable.teclado, 
-            "Teclado Mecânico Gamer T-Dagger Corvette",
+             val produto5 = produto(
+                 R.drawable.teclado, 
+                 "Teclado Mecânico Gamer T-Dagger Corvette",
             "Teclado Mecânico Gamer T-Dagger Corvette, LED Rainbow, Switch Outemu DIY Blue, ABNT2 - T-TGK302 -BL (PT-BLUE).",
             "R$ 1.050,00" 
         )
         listaProdutos.add(produto5)
 
-        val produto6 = produto(
-            R.drawable.gabinete,
-            "Gabinete Gamer",
+            val produto6 = produto(
+                R.drawable.gabinete,
+                "Gabinete Gamer",
             "A série Carbide SPEC-DELTA RGB é uma caixa ATX de torre média de vidro temperado com estilo angular impressionante, fluxo de ar potente e três ventiladores de refrigeração RGB incluídos.",
             "R$ 1.900,00"
         )
         listaProdutos.add(produto6)
      
-        val produto7 = produto(
-            R.drawable.monitor,
+            val produto7 = produto(
+                R.drawable.monitor,
             "monitor Gamer",
             "Monitor Gamer Portátil Full Hd 144hz  Gamer 1080p 16,1 '' Preto 127/220v"
          )
          listaProdutos.add(produto7) 
 
-        val produto8 = produto(
-            R.drawable.mesa,
+            val produto8 = produto(
+                R.drawable.mesa,
             "Mesa Gamer. . ." 
             "Continuação da descrição. . ." 
          )
          listaProdutos.add(produto8)
 
  
-         val produto9 = produto(
-             R.drawable.cadeira, 
+            val produto9 = produto(
+                 R.drawable.cadeira, 
              "cadeira Gamer"
              "Continuação da descrição. . ." 
   
          )
           listaProdutos.add(produto9)
 
-          val produto10 = produto(
-              R.drawable.teste, 
+              val produto10 = produto(
+                  R.drawable.teste, 
               "descrição" 
               "continuação d descricao. . ."
 
          )
           listaProdutos.add(produto10)
 
-          val produto11 = produto(
-          R.drawable.teste,
+             val produto11 = produto(
+                 R.drawable.teste,
           "descrição" 
           "continuação da descrição"
 
          )
           listaProdutos.add(produto11)
 
-          val produto12 = produto(
-          R.drawable.teste,
+             val produto12 = produto(
+                 R.drawable.teste,
           "descrição"
           " corpo da descrição" 
 
