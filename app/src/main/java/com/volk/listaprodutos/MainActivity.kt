@@ -94,7 +94,7 @@ class MainActivity : AppCompatActivity() {
              "Continuação da descrição. . ." 
   
          )
-          listaProdutos.add(produto9)
+         listaProdutos.add(produto9)
 
               val produto10 = produto(
                   R.drawable.teste, 
@@ -102,7 +102,7 @@ class MainActivity : AppCompatActivity() {
               "continuação d descricao. . ."
 
          )
-          listaProdutos.add(produto10)
+         listaProdutos.add(produto10)
 
              val produto11 = produto(
                  R.drawable.teste,
@@ -110,7 +110,7 @@ class MainActivity : AppCompatActivity() {
           "continuação da descrição"
 
          )
-          listaProdutos.add(produto11)
+         listaProdutos.add(produto11)
 
              val produto12 = produto(
                  R.drawable.teste,
